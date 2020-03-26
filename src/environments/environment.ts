@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  wsUrl:'http://54.234.236.181:3000'
+  wsUrl:'http://3.88.195.190:3000'
 };
 
 /*
